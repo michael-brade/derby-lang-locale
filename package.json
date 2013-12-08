@@ -1,0 +1,30 @@
+{
+  "author": "psirenny <djtorres0@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/psirenny/derby-lang-locale/issues"
+  },
+  "description": "Add supported languages to derby-locale.",
+  "keywords": [
+    "derby",
+    "i18n",
+    "i10n",
+    "internationalization",
+    "language",
+    "locale",
+    "localization",
+    "messageformat",
+    "translation"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "derby-lang-locale",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/psirenny/derby-lang-locale.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}
