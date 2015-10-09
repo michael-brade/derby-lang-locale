@@ -1,7 +1,7 @@
 {
-  "author": "psirenny <djtorres0@gmail.com>",
+  "author": "Michael Brade <brade@kde.org>",
   "bugs": {
-    "url": "https://github.com/psirenny/derby-lang-locale/issues"
+    "url": "https://github.com/michael-brade/derby-lang-locale/issues"
   },
   "description": "Add supported languages to derby-locale.",
   "keywords": [
@@ -21,10 +21,10 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git://github.com/psirenny/derby-lang-locale.git"
+    "url": "git://github.com/michael-brade/derby-lang-locale.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
